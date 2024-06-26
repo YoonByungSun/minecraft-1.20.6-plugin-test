@@ -1,0 +1,5 @@
+name: custom-plugin
+version: '1.0_dev'
+main: org.plugin.customPlugin.Main
+api-version: '1.20'
+commands:
